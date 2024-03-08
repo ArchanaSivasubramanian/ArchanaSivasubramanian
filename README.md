@@ -1,3 +1,3 @@
 System.out.println(3);
-System.out.println(358);
+archu
 System.out.println(50000);
